@@ -1,0 +1,14 @@
+{
+    "name": "Monero Outreach",
+    "github": "monero-ecosystem/outreach-docs",
+    "twitter": "xmroutreach",
+    "donate": "https://www.monerooutreach.org/about.html",
+    "type": "project",
+    "website": "https://www.monerooutreach.org/",
+    "avatar": "https://pbs.twimg.com/profile_images/1042869770566041600/xDrW3EKs.jpg",
+    "description": "This workgroup is focused on getting Monero out there, gathering artists, writers, and anyone who wishes to make Monero known to the world.",
+    "tags": [
+        "Monero",
+        "Outreach"
+    ]
+}

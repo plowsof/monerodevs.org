@@ -1,0 +1,14 @@
+{
+    "name": "Haveno",
+    "github": "haveno-dex",
+    "twitter": "havenodex",
+    "donate": "",
+    "type": "project",
+    "website": "https://haveno.exchange/",
+    "avatar": "https://pbs.twimg.com/profile_images/1388150969050046465/3kQA49zp.png",
+    "description": "Decentralised Monero Exchange",
+    "tags": [
+        "Monero",
+        "Haveno DEx"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "P2Pool",
+    "github": "SChernykh/p2pool",
+    "twitter": "",
+    "donate": "44MnN1f3Eto8DZYUWuE5XZNUtE3vcRzt2j6PzqWpPau34e6Cf4fAxt6X2MBmrm6F9YMEiMNjN6W4Shn4pLcfNAja621jwyg",
+    "type": "project",
+    "website": "https://p2pool.io/",
+    "avatar": "https://opengraph.githubassets.com/0014943ca18d95b42fc051ae38d1bc486c7a00a72f66a7a861c0d0bd3b094d95/SChernykh/p2pool",
+    "description": "The perfect p2p Monero Mining pool. 0% fees / 0 XMR payout and decentralised and much, much more",
+    "tags": [
+        "Monero",
+        "P2Pool"
+    ]
+}

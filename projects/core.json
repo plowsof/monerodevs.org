@@ -1,0 +1,14 @@
+{
+    "name": "Core Team",
+    "github": "",
+    "twitter": "",
+    "donate": "",
+    "type": "project",
+    "website": "https://www.getmonero.org/",
+    "avatar": "icons/default-avatar.jpg",
+    "description": "As stewards of the project, the Core Team manages and maintains infrastructure where centralization cannot be avoided (domains, website, github repositories...). Its members act as mediators as they see fit and aim to weigh consensus in the community, perpetuating the quality interactions that made Monero the successful project it is today. The Core Team does not and has never received any financial compensation.",
+    "tags": [
+        "Monero",
+        "Core"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Community Art Fund",
+    "github": "",
+    "twitter": "XMRArtFund",
+    "donate": "https://moneroart.neocities.org/",
+    "type": "project",
+    "website": "https://moneroart.neocities.org/",
+    "avatar": "https://pbs.twimg.com/profile_images/1434631710461726720/sh4nWOne.jpg",
+    "description": "Crowdfunding site to commission Monero related Art",
+    "tags": [
+        "Monero",
+        "Art"
+    ]
+}
