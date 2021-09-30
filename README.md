@@ -1,4 +1,7 @@
 
+People can have Multiple tags.
+Projects should only have One tag
+
 looks something like:    
 (avatar can be empty - i will get your twitter profile pic automatically - failing that - your github.. failing that.. a default icon
 
