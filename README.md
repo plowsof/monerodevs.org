@@ -68,11 +68,11 @@ the corresponding 'OptOut' project:
 
 ### using the src
 
--Install git on your os
--create a folder on your machine / open terminal there
--set up ssh key access for github ...
--git clone git@github.com:plowsof/monerodevs.org.git
--git remote add devlist git@github.com:plowsof/monerodevs.org.git
--place the python and template files in the same dir as the people/projects folders
--a cronjob can call the script with "shuffle" as an arg to reshuffle the main page
--a human must view pull requests. merge them. then run the script to generate the new html files
+- Install git on your os
+- create a folder on your machine / open terminal there
+- set up ssh key access for github ...
+- git clone git@github.com:plowsof/monerodevs.org.git
+- git remote add devlist git@github.com:plowsof/monerodevs.org.git
+- place the python and template files in the same dir as the people/projects folders
+- a cronjob can call the script with "shuffle" as an arg to reshuffle the main page
+- a human must view pull requests. merge them. then run the script to generate the new html files
