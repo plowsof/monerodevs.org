@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>List of Monero devs</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <a href="index.html">Home</a>
+  	<p>Project</p>
+  	<div>
+   {% for n in project %} {{n}} {% endfor %}
+    </div>
+   <p>People involved</p><br><br>
+
+<div>
+   {% for n in people %} {{n}} {% endfor %}
+</div>
+  </body>
+</html>
