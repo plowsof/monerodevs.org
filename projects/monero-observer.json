@@ -5,7 +5,7 @@
     "donate": "https://www.monero.observer/about/",
     "type": "project",
     "website": "https://www.monero.observer/",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Everything that moves in the Monero community.",
     "tags": [
         "Monero",

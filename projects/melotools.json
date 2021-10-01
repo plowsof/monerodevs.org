@@ -5,7 +5,7 @@
     "donate": "8BWy2PRPNfTB6Z233rquMjNRdB3wSay5FLjBaViiKqzuWr8BZ3HWD15NsLPoS93hnGHX2zrrVwDAV53ndR2rV7tuU33EjuE",
     "type": "project",
     "website": "https://melo.tools/",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Melo.tools is a hub for free tools and resources available for the Monero community. While we strive for availability and reliability, please keep in mind all of this is done on our free time :)",
     "tags": [
         "Monero",
