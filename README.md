@@ -76,3 +76,4 @@ the corresponding 'OptOut' project:
 - place the python and template files in the same dir as the people/projects folders
 - a cronjob can call the script with "shuffle" as an arg to reshuffle the main page
 - a human must view pull requests. merge them. then run the script to generate the new html files
+- when running on a vps - changes to the save dir of the html files need to be made and uploading to git not needed
