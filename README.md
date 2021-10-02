@@ -63,6 +63,7 @@ the corresponding 'OptOut' project:
 }
 ```
 
+## I want to be on the list 
 [how to make a PR on github](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Lets say my name is 'John Doe'. I am a member of the 'Monero Policy Workgroup' and i want to be added on the devlist website.
