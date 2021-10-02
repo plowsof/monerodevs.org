@@ -83,7 +83,7 @@ I fork this repo, then i create a new file in 'people' called (name does not mat
     "description": "", <- this will default to "I like monero getmonero.org" if left empty
     "tags": [
         "Monero",
-        "MWG" <- We've added the tag
+        "MPW" <- We've added the tag
     ]
 }
 
