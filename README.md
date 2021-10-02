@@ -18,9 +18,7 @@ looks something like:
     "avatar": "",
     "description": "",
     "tags": [
-        "Monero",
-        "OptOut",
-        "Events"
+        "Monero"
     ]
 }
 ```
