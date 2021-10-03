@@ -113,7 +113,27 @@ John Doe now wants to create a new project! called 'cyberpunks'! so he needs to 
 }
 ```
 
-John Doe can then , edit his people/johndoe.json and add the "Punk" to his tags 
+John Doe can then , edit his people/johndoe.json and add the "Punk" to his tags as shown below:
+```
+~ Contents of people/johndoe.json ~
+{
+    "name": "John Doe",
+    "github": "",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "", 
+    "website": "",
+    "donate": "", 
+    "avatar": "", 
+    "description": "", 
+    "tags": [
+        "Monero",
+        "MPW",
+        "Punks" <- We've added the new tag (notice no comma after the last tag)
+    ]
+}
+```
 
 ### using the src
 
