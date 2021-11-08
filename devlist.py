@@ -349,7 +349,7 @@ def main():
 
 def checkDiff():
 
-    os.chdir("/home/human/Documents/xmr-btc-wishlist/watchgit/deployed/monerodevs.org")
+    os.chdir("/home/human/monerodevs/monerodevs.org")
     os.system("git fetch devlist")
     stream = os.popen("git diff main devlist/main").read()
     os.system("git checkout main")
