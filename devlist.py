@@ -138,12 +138,15 @@ def createCard(data_list,tag_link_to,nested="./"):
                         <p id="description">{markdown.markdown(person['description'])}</p>
                         <img class="avatar" src="{avatar}">
                     '''
-        if person["twitter"] != "":
-            thestring +=    f'''
+        try:
+            if person["twitter"] != "":
+                thestring +=    f'''
                             <a href="https://twitter.com/{person["twitter"]}">
                                 <img class="twitter" src="{nested}icons/twitter.png">
                             </a>
                             '''
+        except:
+            pass
         try:
             if person["reddit"] != "":
                 thestring += f'''
