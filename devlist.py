@@ -327,7 +327,7 @@ def main():
 
         if modified == 1:
             os.system(f"git commit -m 'changes'")
-            os.systen(f"git push devlist main")
+            os.system(f"git push devlist main")
 
     random.shuffle(people)
     random.shuffle(project_list)
