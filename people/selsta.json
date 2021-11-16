@@ -1,10 +1,10 @@
 {
-    "name": "Selsta",
+    "name": "selsta",
     "github": "selsta",
     "twitter": "selsta541",
     "donate": "",
     "avatar": "https://pbs.twimg.com/profile_images/1146481734067904513/Vpb4Gi_8.jpg",
-    "description": "I like Monero  [getmonero.org](www.getmonero.org)",
+    "description": "I do monero release engineering, handle the pull request merge queue and do smaller dev work for CLI and GUI",
     "tags": [
         "Monero",
         "CCS"
