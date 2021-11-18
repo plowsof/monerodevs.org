@@ -5,10 +5,10 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://www.getmonero.org/",
     "donate": "",
-    "avatar": "",
-    "description": "",
+    "avatar": "icons/default-avatar.jpg",
+    "description": "I like Monero [getmonero.org](www.getmonero.org)",
     "tags": [
         "Monero",
         "ETH<->XMR"
