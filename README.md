@@ -150,7 +150,7 @@ John Doe can then , edit his people/johndoe.json and add the "Punk" to his tags 
 ### what it looks like when in use
 
 For this example, i deleted the avatar links for Justin and FluffyPony (as they where not working anymore). I also added a quick start guide link to the p2pool project and updated a youtube url for the monero-guides project.
-'''
+```
 root@Box:/home/human/monerodevs# python3 devlist_2.py
 remote: Enumerating objects: 23, done.
 remote: Counting objects: 100% (23/23), done.
@@ -187,4 +187,4 @@ upload :index.html
 upload :p2pool.html
 upload :monero-space-workgroup.html
 root@Box:/home/human/monerodevs#
-'''
+```
