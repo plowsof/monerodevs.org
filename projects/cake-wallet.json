@@ -1,13 +1,13 @@
 {
     "name": "Cake Wallet",
-    "github": "cake_wallet",
+    "github": "cake-tech",
     "reddit": "",
     "matrix": "",
     "twitter": "cakewallet",
     "youtube": "",
     "website": "https://cakewallet.com/",
     "donate": "",
-    "avatar": "icons/default-avatar.jpg",
+    "avatar": "",
     "description": "Mobile Monero / BTC / LTC wallet",
     "tags": [
         "Monero",
