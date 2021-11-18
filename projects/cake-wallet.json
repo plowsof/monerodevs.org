@@ -7,7 +7,7 @@
     "youtube": "",
     "website": "https://cakewallet.com/",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Mobile Monero / BTC / LTC wallet",
     "tags": [
         "Monero",
