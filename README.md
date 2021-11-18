@@ -146,3 +146,45 @@ John Doe can then , edit his people/johndoe.json and add the "Punk" to his tags 
 - a cronjob can call the script with "shuffle" as an arg to reshuffle the main page
 - a human must view pull requests. merge them. then run the script to generate the new html files
 - when running on a vps - changes to the save dir of the html files need to be made and uploading to git not needed
+
+### what it looks like when in use
+
+For this example, i deleted the avatar links for Justin and FluffyPony (as they where not working anymore). I also added a quick start guide link to the p2pool project and updated a youtube url for the monero-guides project.
+'''
+root@Box:/home/human/monerodevs# python3 devlist_2.py
+remote: Enumerating objects: 23, done.
+remote: Counting objects: 100% (23/23), done.
+remote: Compressing objects: 100% (16/16), done.
+remote: Total 16 (delta 12), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (16/16), done.
+From github.com:plowsof/monerodevs.org
+   1c94901..26904af  main       -> devlist/main
+Already on 'main'
+Your branch is ahead of 'origin/main' by 25 commits.
+  (use "git push" to publish your local commits)
+Updating 1c94901..26904af
+Fast-forward
+ people/fluffypony.json      | 4 ++--
+ people/justin.json          | 2 +-
+ projects/monero-guides.json | 4 ++--
+ projects/p2pool.json        | 4 ++--
+ 4 files changed, 7 insertions(+), 7 deletions(-)
+avatar not set
+avatar not set
+dir exists
+people/fluffypony.json
+people/justin.json
+projects/monero-guides.json
+projects/p2pool.json
+['monero-public-events.html', 'monero-policy-workgroup.html', 'magic-monero-fund
+.html', 'monero-space-workgroup.html', 'monero-guides-.html', 'p2pool.html']
+root@eeeBox:/home/human/monerodevs# python3 devlist_2.py update
+upload :monero-policy-workgroup.html
+upload :magic-monero-fund.html
+upload :monero-guides-.html
+upload :monero-public-events.html
+upload :index.html
+upload :p2pool.html
+upload :monero-space-workgroup.html
+root@Box:/home/human/monerodevs#
+'''
