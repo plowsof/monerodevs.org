@@ -7,7 +7,7 @@
     "youtube": "",
     "website": "https://monerotech.info/Wallet",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "if you want to learn about how exactly Monero wallets produce and process outputs, have a look at TechWallet: a testnet-only learner's and experimenter's web wallet",
     "tags": [
         "Monero",
