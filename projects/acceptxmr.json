@@ -1,4 +1,3 @@
-
 {
     "name": "AcceptXMR",
     "github": "https://github.com/busyboredom/acceptxmr",
@@ -6,10 +5,10 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://www.getmonero.org/",
     "donate": "",
-    "avatar": "",
-    "description": "rust crate to simplify the process of accepting monero using subaddresses", 
+    "avatar": "icons/default-avatar.jpg",
+    "description": "rust crate to simplify the process of accepting monero using subaddresses",
     "tags": [
         "Monero",
         "aXMR"
