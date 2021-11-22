@@ -1,1 +1,17 @@
 
+{
+    "name": "AcceptXMR",
+    "github": "https://github.com/busyboredom/acceptxmr",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+    "donate": "",
+    "avatar": "",
+    "description": "rust crate to simplify the process of accepting monero using subaddresses", 
+    "tags": [
+        "Monero",
+        "aXMR"
+    ]
+}
