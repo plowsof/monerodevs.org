@@ -1,4 +1,3 @@
-
 {
     "name": "john_r365",
     "github": "",
@@ -8,7 +7,7 @@
     "youtube": "",
     "website": "https://resilience365.com",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Privacy enthusiast who started sharing some of my monero / privacy related thoughts on the blog [resilience365.com](https://resilience365.com)",
     "tags": [
         "Monero",
