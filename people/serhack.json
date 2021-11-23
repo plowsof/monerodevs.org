@@ -1,19 +1,16 @@
 {
     "name": "SerHack",
-    "github": "",
-    "reddit": "",
+    "github": "serhack",
+    "reddit": "serhack",
     "matrix": "",
     "twitter": "serhack",
     "youtube": "",
-    "website": "",
-    "donate": "",
+    "website": "https://serhack.me/",
+    "donate": "https://serhack.me/donate/",
     "avatar": "",
-    "description": "Security researcher – author of Mastering Monero 
-
-@masteringxmr
-
- – writes about blockchain, cryptocurrencies, information security and much more – 🇮🇹",
+    "description": "Security researcher – author of Mastering Monero [@masteringxmr](https://mobile.twitter.com/masteringxmr) – writes about blockchain, cryptocurrencies, information security and much more – 🇮🇹",
     "tags": [
-        "Monero"
+        "Monero",
+        "MM"
     ]
 }
