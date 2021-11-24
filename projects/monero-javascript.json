@@ -1,17 +1,17 @@
 {
     "name": "Monero Javascript Library",
-    "github": "",
+    "github": "https://github.com/monero-ecosystem/monero-javascript",
     "reddit": "",
     "matrix": "",
     "twitter": "",
     "youtube": "",
     "website": "",
-    "donate": "",
+    "donate": "46FR1GKVqFNQnDiFkH7AuzbUBrGQwz2VdaXTDD4jcjRE8YkkoTYTmZ2Vohsz9gLSqkj5EM6ai9Q7sBoX4FPPYJdGKQQXPVz",
     "avatar": "",
-    "description": "",
+    "description": "A Node.js library for creating Monero applications using RPC and WebAssembly bindings to monero",
     "tags": [
         "Monero",
         "mJS"
     ]
 }
-https://github.com/monero-ecosystem/monero-javascript
+
