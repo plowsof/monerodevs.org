@@ -1,1 +1,16 @@
-https://github.com/luigi1111/xmr.llcoins.net
+{
+    "name": "llcoins",
+    "github": "https://github.com/luigi1111/xmr.llcoins.net",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "http://llcoins.net/",
+    "donate": "",
+    "avatar": "",
+    "description": "",
+    "tags": [
+        "Monero",
+        "llcoins"
+    ]
+}
