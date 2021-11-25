@@ -8,9 +8,10 @@
     "website": "",
     "donate": "",
     "avatar": "https://avatars.githubusercontent.com/u/45968869?v=4?s=400",
-    "description": "I like Monero [getmonero.org](www.getmonero.org)",
+    "description": "I like Monero [getmonero.org](www.getmonero.org) [My CCS](https://ccs.getmonero.org/proposals/rating89us-1.html)",
     "tags": [
         "Monero",
-        "GUI"
+        "GUI",
+        "CCS"
     ]
 }
