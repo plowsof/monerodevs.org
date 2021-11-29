@@ -1,6 +1,6 @@
 {
     "name": "kayabaNerve",
-    "github": "",
+    "github": "kayabaNerve",
     "reddit": "",
     "matrix": "",
     "twitter": "",
@@ -10,6 +10,7 @@
     "avatar": "",
     "description": "Recently I made a cryptographic lib required for atomic swaps, DLEq, which Farcaster is planning to adopt",
     "tags": [
-        "Monero"
+        "Monero",
+        "FcastR
     ]
 }
