@@ -7,7 +7,7 @@
     "youtube": "",
     "website": "",
     "donate": "",
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/25259837?v=4?s=400",
     "description": "Recently I made a cryptographic lib required for atomic swaps, DLEq, which Farcaster is planning to adopt",
     "tags": [
         "Monero",
