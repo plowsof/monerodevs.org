@@ -11,6 +11,6 @@
     "description": "Recently I made a cryptographic lib required for atomic swaps, DLEq, which Farcaster is planning to adopt",
     "tags": [
         "Monero",
-        "FcastR
+        "FcastR"
     ]
 }
