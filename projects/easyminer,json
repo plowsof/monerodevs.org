@@ -6,7 +6,7 @@
     "twitter": "",
     "youtube": "",
     "website": "https://www.getmonero.org/",
-    "donate": "",
+    "donate": "47D8WQoJKydhTkk26bqZCVF7FaNhzRtNG15u1XiRQ83nfYqogyLjPMnYEKarjAiCz93oV6sETE9kkL3bkbvTX6nMU24CND8",
     "avatar": "icons/default-avatar.jpg",
     "description": "Mine Monero from SERVERSIDE node.js with C++ XMRIG(No complicated install) (Linux/Windows)",
     "tags": [
