@@ -1,4 +1,3 @@
-
 {
     "name": "MyMonero",
     "github": "MyMonero",
@@ -8,8 +7,8 @@
     "youtube": "",
     "website": "https://mymonero.com/",
     "donate": "48yi8KBxh7fdZzwnX2kFCGALRcN1sNjwBHDfd5i9WLAWKs7G9rVbXNnbJTqZhhZCiudVtaMJKrXxmBeBR9kggBXr8X7PxPT",
-    "avatar": "",
-    "description": "",
+    "avatar": "https://avatars.githubusercontent.com/u/10211276?s=280&v=4",
+    "description": "I like Monero [getmonero.org](www.getmonero.org)",
     "tags": [
         "Monero",
         "MyMonero"
