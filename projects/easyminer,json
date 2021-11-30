@@ -1,0 +1,16 @@
+{
+    "name": "EazyMiner",
+    "github": "https://github.com/DutchKevv/Overhead2Crypto",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+    "donate": "",
+    "avatar": "",
+    "description": "Mine Monero from SERVERSIDE node.js with C++ XMRIG(No complicated install) (Linux/Windows)",
+    "tags": [
+        "Monero",
+        "EzMiner"
+    ]
+}
