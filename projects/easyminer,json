@@ -5,9 +5,9 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://www.getmonero.org/",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Mine Monero from SERVERSIDE node.js with C++ XMRIG(No complicated install) (Linux/Windows)",
     "tags": [
         "Monero",
