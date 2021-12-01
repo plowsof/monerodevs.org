@@ -1,1 +1,17 @@
 
+{
+    "name": "MoneroPay",
+    "github": "moneropay",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+    "donate": "",
+    "avatar": "",
+    "description": "Monero payment gateway (API) for incoming and outgoing transactions",
+    "tags": [
+        "Monero",
+        "mPay"
+    ]
+}
