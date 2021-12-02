@@ -1,4 +1,3 @@
-
 {
     "name": "KYCnot.me",
     "github": "",
@@ -8,7 +7,7 @@
     "youtube": "",
     "website": "https://kycnot.me/",
     "donate": "83czvTQL5cHXZZpRM6bvcqVZSbNRqsX1tMwWnx1HjKBUD8swxUm9fFiTHUZbfYg8qPLM4nLwSdGCM1JmAXUp886KG93Pccr",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Kycnot.me is a curated list of exchanges and services which do not require KYC and can be trusted. It only lists exchanges who support BTC and/or XMR.",
     "tags": [
         "Monero",
