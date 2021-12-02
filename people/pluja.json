@@ -7,7 +7,7 @@
     "youtube": "",
     "website": "",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "[My CCS idea](https://repo.getmonero.org/monero-project/ccs-proposals/-/merge_requests/273)",
     "tags": [
         "Monero",
