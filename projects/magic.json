@@ -1,14 +1,14 @@
 {
     "name": "MAGIC Monero Fund",
-    "github": "",
+    "github": "MagicGrants",
     "reddit": "",
     "matrix": "",
-    "twitter": "",
+    "twitter": "MagicGrants",
     "youtube": "",
-    "website": "https://www.magicgrants.org/contribute",
+    "website": "https://magicgrants.org/funds/monero/",
     "donate": "",
     "avatar": "icons/default-avatar.jpg",
-    "description": "Coming soon..",
+    "description": "[Apply to be a fund comittee member](https://github.com/MAGICGrants/Monero-Fund#apply-to-be-a-fund-committee-member)",
     "tags": [
         "Monero",
         "MAGIC"
