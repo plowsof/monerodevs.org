@@ -1,0 +1,16 @@
+{
+    "name": "Monero Merchant",
+    "github": "https://github.com/RuiSiang/monero-merchant",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+    "donate": "8BCaS8k6ag34JwruWhNHRBFwucWgYP7UfGXEMovdgLvtevoPps1XFipK4Fw2Kh5hPvLL1dBnpD6UKXWK8v8zFeVsPAXpAZG",
+    "avatar": "",
+    "description": "Monero Merchant is a RESTful API wrapper for the official Monero wallet RPC. This project is mainly for merchants who hope to accept Monero as payment",
+    "tags": [
+        "Monero",
+        "mMerchant"
+    ]
+}
