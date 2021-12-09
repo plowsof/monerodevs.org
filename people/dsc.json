@@ -1,14 +1,15 @@
 {
     "name": "dsc_",
-    "github": "",
+    "github": "sanderfoobar",
     "reddit": "",
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://sanderf.nl",
     "donate": "",
     "avatar": "icons/default-avatar.jpg",
-    "description": "I like Monero [getmonero.org](www.getmonero.org)",
+    "description": "Creator of Featherwallet, Monero GUI contributor.",
+    "tags
     "tags": [
         "Monero",
         "GUI",
