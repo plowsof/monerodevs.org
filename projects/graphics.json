@@ -1,1 +1,17 @@
-https://monero.graphics/
+
+{
+    "name": "Monero Graphics",
+    "github": "",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "https://monero.graphics/",
+    "donate": "",
+    "avatar": "",
+    "description": "",
+    "tags": [
+        "Monero",
+        "Graphics"
+    ]
+}
