@@ -10,7 +10,7 @@
     "avatar": "",
     "description": "Open-source, client-side deposit scanner for Monero wallets.",
     "tags": [
-        "Monero"
+        "Monero",
         "DepScan"
     ]
 }
