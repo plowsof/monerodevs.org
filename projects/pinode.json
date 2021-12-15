@@ -1,0 +1,17 @@
+{
+    "name": "PiNode-XMR",
+    "github": "https://github.com/monero-ecosystem/PiNode-XMR",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+
+"donate": "",
+    "avatar": "",
+    "description": "PiNode-XMR is a completely free and open source suite of tools to help a user run their own Monero node with ease.",
+    "tags": [
+        "Monero",
+        "PiNode"
+    ]
+}
