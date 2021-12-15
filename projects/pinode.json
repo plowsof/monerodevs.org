@@ -5,9 +5,9 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://www.getmonero.org/",
     "donate": "43HoAhqx9q3MR1crAjpQtYVhvzQhZgqPwSWVQMmPvYmr18qVUEjCHcsEasuCxS486rWSSg1gbGqanet67NWRsh1bQL9KkB9",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "PiNode-XMR is a completely free and open source suite of tools to help a user run their own Monero node with ease.",
     "tags": [
         "Monero",
