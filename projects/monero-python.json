@@ -11,6 +11,6 @@
     "description": "A comprehensive Python library for handling Monero",
     "tags": [
         "Monero",
-        "monero-py,
+        "monero-py"
     ]
 }
