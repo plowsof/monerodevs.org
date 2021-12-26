@@ -7,10 +7,10 @@
     "youtube": "",
     "website": "https://localmonero.co/revuo",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Weekly newsletter",
     "tags": [
         "Monero",
-      "Revuo"
+        "Revuo"
     ]
 }

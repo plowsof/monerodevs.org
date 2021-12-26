@@ -7,10 +7,10 @@
     "youtube": "",
     "website": "https://johnfoss.medium.com/",
     "donate": "",
-    "avatar": "",
-    "description": "",
+    "avatar": "icons/default-avatar.jpg",
+    "description": "I like Monero [getmonero.org](www.getmonero.org)",
     "tags": [
         "Monero",
-      "Moon"
+        "Moon"
     ]
 }
