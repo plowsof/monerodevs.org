@@ -1,6 +1,6 @@
 {
     "name": "Revuo Monero",
-    "github": "https://repo.getmonero.org/rehrar/revuo-weekly",
+    "github": "",
     "reddit": "",
     "matrix": "",
     "twitter": "",
@@ -8,7 +8,7 @@
     "website": "https://localmonero.co/revuo",
     "donate": "",
     "avatar": "icons/default-avatar.jpg",
-    "description": "Weekly Monero newsletter",
+    "description": "Weekly Monero newsletter [archive here](https://repo.getmonero.org/rehrar/revuo-weekly)",
     "tags": [
         "Monero",
         "Revuo"
