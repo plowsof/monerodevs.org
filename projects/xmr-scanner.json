@@ -5,9 +5,9 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://www.getmonero.org/",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "A generic online scanner/searcher for Monero view-keys. Features include detection of possible spends. More info / dockerfile / screenshot @ github!",
     "tags": [
         "Monero",
