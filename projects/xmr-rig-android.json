@@ -5,10 +5,10 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "https://www.getmonero.org/",
-    "donate": "",
+    "website": "https://www.reddit.com/r/XMRigForAndroid/",
+    "donate": "46gPyHjLPPM8HaayVyvCDcF2A8sq8b476VrwKMukrKg21obm1AKEwzoN3u4ooc55FKdNeF5B8vcs4ixbeCyuydr2A2sdsQi",
     "avatar": "icons/default-avatar.jpg",
-    "description": "I like Monero [getmonero.org](www.getmonero.org)",
+    "description": "Mine Monero from your android device",
     "tags": [
         "Monero",
         "XMRigDroid"
