@@ -7,13 +7,8 @@
     "youtube": "",
     "website": "https://moneroresearch.info/",
     "donate": "",
-<<<<<<< HEAD
     "avatar": "icons/default-avatar.jpg",
-    "description": "A wikindx collection of Monero / Cryptocurrency related research papers",
-=======
-    "avatar": "",
     "description": "MoneroResearch.info hosts a collection of research papers relevant to improving Monero, powered by the WIKINDX open source software.",
->>>>>>> 53a2268052f47a5f6daa1a36e0b6b7461cc70d35
     "tags": [
         "Monero",
         "xmresearch"
