@@ -1,0 +1,16 @@
+{
+    "name": "Mnemonic Cards",
+    "github": "https://github.com/snex/mnemonic-cards",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "https://mnemonic-cards.herokuapp.com/",
+    "donate": "",
+    "avatar": "",
+    "description": "Create a uniquely ordered deck of cards that can be used to recover the mnemonic phrase. Recommended to use offline",
+    "tags": [
+        "Monero",
+        "Seed2Card"
+    ]
+}
