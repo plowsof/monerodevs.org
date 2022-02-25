@@ -7,7 +7,7 @@
     "youtube": "",
     "website": "https://mnemonic-cards.herokuapp.com/",
     "donate": "",
-    "avatar": "",
+    "avatar": "icons/default-avatar.jpg",
     "description": "Create a uniquely ordered deck of cards that can be used to recover the mnemonic phrase. Recommended to use offline",
     "tags": [
         "Monero",
