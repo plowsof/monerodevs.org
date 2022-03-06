@@ -1,12 +1,12 @@
 {
     "name": "Wishlist",
-    "github": "plowsof/xmr-wishlist-aaS",
+    "github": "plowsof/flipstarter-waas-wip",
     "twitter": "",
     "donate": "https://plowsof.github.io/",
     "type": "project",
     "website": "https://plowsof.github.io/",
     "avatar": "https://www.edisonawards.com/news/wp-content/uploads/2016/01/chi-carol-sente-crowdfunding-1871-20150302-1-825x510.jpg",
-    "description": "A simple way to accept Monero donations on your website with live updates! A work in progress version of the wishlist that accepts fiat card payments / email confirmations can be found [here](https://www.getwishlisted.xyz/flask/)",
+    "description": "A multi-crypto crowdfunding page. Still a WiP but the dockerised version is @ the github link above. A running testnet example can be seen [here](rucknium.me/flask",
     "tags": [
         "Monero",
         "Wishlist"
