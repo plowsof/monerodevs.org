@@ -1,1 +1,16 @@
-
+{
+    "name": "Android Termux Node",
+    "github": "CryptoGrampy/android-termux-monero-node",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+    "donate": "",
+    "avatar": "",
+    "description": "Run a Monero Node on Android using Termux",
+    "tags": [
+        "Monero",
+        "TMUXnode"
+    ]
+}
