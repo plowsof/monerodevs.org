@@ -5,9 +5,9 @@
     "matrix": "",
     "twitter": "",
     "youtube": "",
-    "website": "",
+    "website": "https://www.getmonero.org/",
     "donate": "",
-    "avatar": "",
+    "avatar": "https://opengraph.githubassets.com/a345cf6b943735a617867a8dd58e4651cc5869b27f1c4e2eccdd831f31673fa9/CryptoGrampy/android-termux-monero-node",
     "description": "Run a Monero Node on Android using Termux",
     "tags": [
         "Monero",
