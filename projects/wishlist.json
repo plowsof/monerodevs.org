@@ -6,7 +6,7 @@
     "type": "project",
     "website": "https://plowsof.github.io/",
     "avatar": "https://www.edisonawards.com/news/wp-content/uploads/2016/01/chi-carol-sente-crowdfunding-1871-20150302-1-825x510.jpg",
-    "description": "A multi-crypto crowdfunding page. Still a WiP but the dockerised version is @ the github link above. A running testnet example can be seen (here)[rucknium.me/flask]",
+    "description": "A multi-crypto crowdfunding page. Still a WiP but the dockerised version is @ the github link above. A running testnet example can be seen [here](rucknium.me/flask)",
     "tags": [
         "Monero",
         "Wishlist"
