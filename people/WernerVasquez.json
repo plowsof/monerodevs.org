@@ -1,0 +1,15 @@
+{
+    "name": "WernerVasquez",
+    "github": "WernerVasquez",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "https://github.com/WernerVasquez/gomonero",
+    "donate": "",
+    "avatar": "",
+    "description": "I have a work in progress monero library in Go. Currently, I am working on implementing jamtis. Crtiticism needed and welcome.",
+    "tags": [
+        "Monero"
+    ]
+}
