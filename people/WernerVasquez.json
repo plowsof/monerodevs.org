@@ -7,7 +7,7 @@
     "youtube": "",
     "website": "https://github.com/WernerVasquez/gomonero",
     "donate": "",
-    "avatar": "",
+    "avatar": "https://avatars.githubusercontent.com/u/61570397?v=4?s=400",
     "description": "I have a work in progress monero library in Go. Currently, I am working on implementing jamtis. Crtiticism needed and welcome.",
     "tags": [
         "Monero"
