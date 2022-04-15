@@ -1,0 +1,16 @@
+{
+    "name": "Monero Proxy",
+    "github": "unyieldinggrace/monerod-proxy",
+    "reddit": "",
+    "matrix": "",
+    "twitter": "",
+    "youtube": "",
+    "website": "",
+    "donate": "87U3RX6JmHiJfWxGy1nRi1EChpuWXowCqChTAUDh8j6hc9Eg928JreVgJ8DEtW8C97W3MYuh8hKzoHxkpSY4CS7f8NPSHnK",
+    "avatar": "",
+    "description": "HTTP proxy server intended to sit in front of a real Monerod node. Your wallet (or other app that needs a node) can talk to the proxy just as if it was talking to the node directly, but with some nice extra features.",
+    "tags": [
+        "Monero",
+        "ProxyD"
+    ]
+}
