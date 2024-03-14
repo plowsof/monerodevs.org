@@ -1,11 +1,11 @@
 {
     "name": "Feather Wallet",
-    "github": "https://git.featherwallet.org/feather/feather",
+    "github": "https://github.com/feather-wallet/feather",
     "twitter": "FeatherWallet",
     "donate": "47ntfT2Z5384zku39pTM6hGcnLnvpRYW2Azm87GiAAH2bcTidtq278TL6HmwyL8yjMeERqGEBs3cqC8vvHPJd1cWQrGC65f",
     "type": "project",
     "website": "https://featherwallet.org/",
-    "avatar": "https://featherwallet.org/theme/img/Feather-icon.png",
+    "avatar": "https://raw.githubusercontent.com/feather-wallet/feather-site/master/static/img/feather.png",
     "description": "Multi-OS Desktop wallet for Monero",
     "tags": [
         "Monero",
